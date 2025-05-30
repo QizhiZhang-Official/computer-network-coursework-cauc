@@ -49,8 +49,8 @@ computer-network-coursework-CAUC
 
 ## 联系方式
 
-- **Wechat**:SaotomeShigo_ZQZ
-- **QQ**:1677526065
+- **WeChat**: SaotomeShigo_ZQZ
+- **QQ**: 1677526065
 - **Email**：Qizhi-Zhang@outlook.com
 
 ## 许可证
