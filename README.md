@@ -45,7 +45,7 @@ computer-network-coursework-CAUC
 
 ## 贡献与使用
 
-欢迎学弟学妹们使用本资源！如有改进建议，欢迎提交Issue或Pull Request。
+欢迎学妹学弟们使用本资源！如有改进建议，欢迎提交Issue或Pull Request。
 
 ## 联系方式
 
